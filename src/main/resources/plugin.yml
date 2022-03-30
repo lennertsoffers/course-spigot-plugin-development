@@ -1,0 +1,12 @@
+name: CourseSpigotPluginDevelopment
+version: '${project.version}'
+main: com.lennertsoffers.coursespigotplugindevelopment
+api-version: 1.18
+authors: [ LennertSoffers ]
+description: The code we will go over in our course for Spigot Plugin development
+website: lennertsoffers.com
+
+commands:
+  getPencil:
+    description: Gives you a pencil you can draw with
+    usage: /getPencil
